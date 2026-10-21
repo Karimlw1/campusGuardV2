@@ -67,3 +67,5 @@ Open: http://localhost:8000/docs
 | GET    | /dashboard/stats      | Live stats             |
 | GET    | /reports/generate     | Export PDF/Excel       |
 "# campusGuardV2" 
+"# campusGuardV2" 
+"# campusGuardV2" 
