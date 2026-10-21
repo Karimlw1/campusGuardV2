@@ -378,3 +378,8 @@ $RECYCLE.BIN/
 .sentry-native/
 *.orig
 *.rej
+node_modules/
+dist/
+build/
+.env.local
+CampusGuard/static/photos/
